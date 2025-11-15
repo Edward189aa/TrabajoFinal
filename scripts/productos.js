@@ -15,7 +15,7 @@ function App() {
       categoria: "Multi",
       genero: "Action RPG",
       precio: 199,
-      ventas: 95,
+      ventas: 9.5,
     },
     {
       id: 2,
@@ -25,7 +25,7 @@ function App() {
       categoria: "Multi",
       genero: "Deportes",
       precio: 159,
-      ventas: 88,
+      ventas: 8.8,
     },
     {
       id: 3,
@@ -35,7 +35,7 @@ function App() {
       categoria: "PC",
       genero: "Sandbox",
       precio: 89,
-      ventas: 100,
+      ventas: 10.0,
     },
     {
       id: 4,
@@ -45,7 +45,7 @@ function App() {
       categoria: "PSN",
       genero: "Acción / Aventura",
       precio: 149,
-      ventas: 82,
+      ventas: 8.2,
     },
     {
       id: 5,
@@ -55,7 +55,7 @@ function App() {
       categoria: "PC",
       genero: "Metroidvania",
       precio: 39,
-      ventas: 75,
+      ventas: 7.5,
     },
     {
       id: 6,
@@ -65,7 +65,7 @@ function App() {
       categoria: "Multi",
       genero: "Battle Royale",
       precio: 59,
-      ventas: 90,
+      ventas: 9.0,
     },
     {
       id: 7,
@@ -75,7 +75,7 @@ function App() {
       categoria: "PSN",
       genero: "Acción / Historia",
       precio: 179,
-      ventas: 92,
+      ventas: 9.2,
     },
     {
       id: 8,
@@ -85,7 +85,7 @@ function App() {
       categoria: "Nintendo",
       genero: "Carreras",
       precio: 169,
-      ventas: 98,
+      ventas: 9.8,
     },
     {
       id: 9,
@@ -95,7 +95,7 @@ function App() {
       categoria: "Nintendo",
       genero: "Aventura",
       precio: 189,
-      ventas: 96,
+      ventas: 9.6,
     },
     {
       id: 10,
@@ -105,7 +105,7 @@ function App() {
       categoria: "Xbox",
       genero: "Shooter",
       precio: 149,
-      ventas: 72,
+      ventas: 7.2,
     },
   ];
 

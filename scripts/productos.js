@@ -30,7 +30,7 @@ function App() {
     {
       id: 3,
       nombre: "Minecraft",
-      img: "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGpk5QNANewC9ZpzKBupUqYK3fn2LeRwFabw&s",
       plataforma: "PC",
       categoria: "PC",
       genero: "Sandbox",
@@ -70,7 +70,7 @@ function App() {
     {
       id: 7,
       nombre: "The Last of Us Part I",
-      img: "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/ca6Dr3k7PXKaDgEbhN9eODeD.png",
+      img: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg?t=1750959031",
       plataforma: "PS5",
       categoria: "PSN",
       genero: "Acción / Historia",
@@ -80,7 +80,7 @@ function App() {
     {
       id: 8,
       nombre: "Mario Kart 8 Deluxe",
-      img: "https://storegamesperu.com/files/images/productos/1637877600-mario-kart-8-deluxe.jpg",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9_Bgp5claSCr2ENvTomEADfDi_gIcOoyrSw&s",
       plataforma: "Nintendo Switch",
       categoria: "Nintendo",
       genero: "Carreras",
@@ -90,7 +90,7 @@ function App() {
     {
       id: 9,
       nombre: "Zelda: Breath of the Wild",
-      img: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_TheLegendOfZeldaBreathOfTheWild.jpg",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9MfdkxEpxzzMqCJ2BmoQ2_cWMCVyqlYTCYAC4k1U8IH9dfc7Z8pyLEcp1Cf14qYQWpjE&usqp=CAU",
       plataforma: "Nintendo Switch",
       categoria: "Nintendo",
       genero: "Aventura",
